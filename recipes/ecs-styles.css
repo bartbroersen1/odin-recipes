@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(211, 184, 29);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(211, 184, 29);
+}
+
+h1, h2, ol, ul, p {
+    background-color: rgb(11, 112, 16);
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p, ol, ul {
+    font-weight: 200;
+}
+
+ol #wishes {
+    font-weight: 700;
+    font-size: 36px;
+    color: red;
+}

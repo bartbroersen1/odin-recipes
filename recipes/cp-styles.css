@@ -1,0 +1,57 @@
+body {
+    color: white;
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.desc {
+    color: rgb(141, 0, 129);
+    background-color: white;
+}
+
+.protein {
+    color: red;
+    font-weight: 700;
+}
+
+.dairy {
+    color: white;
+    font-weight: 300;
+}
+
+.vegetables {
+    color: lime;
+    font-weight: 100;
+}
+
+ol li {
+    color: black;
+}
+
+#wishes {
+    font-size: 60px;
+    color: yellow;
+    background-color: black;
+    font-weight: 500;
+}
