@@ -1,24 +1,36 @@
 body {
-    background-color: burlywood;
+    background-color: rgb(196, 178, 147);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
 }
 
 h1 {
-    font-weight: 100;
+    font-weight: 600;
     font-size: 42px;
-    color: blue;
-    text-align:center
+    color: rgb(130, 158, 165);
+    background-color: rgb(237, 245, 247);
+    text-align: center;
+    margin: 30px auto 0;
+    padding: 20px 0;
+    width: 640px;
 }
 
-ul, a {
+div {
+    background-color: rgb(237, 245, 247);
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 20px 20px;
+}
+
+a {
     font-weight: 600;
     font-size: 36px;
-    background-color: white;
-    color: red;
-    text-align: left;
-}
-
-.bread {
-    color: pink;
-    font-size: 18px;
+    color: rgb(237, 245, 247);
+    background-color: rgb(163, 194, 199);
+    display: block;
+    padding: 10px 20px;
+    border: 2px solid rgb(130, 158, 165);
+    margin: 0 auto;
+    width: auto;
+    height: 50px;
 }
